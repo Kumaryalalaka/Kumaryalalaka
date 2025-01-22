@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kumar
 - 👀 I’m interested in learning new technologys
 - 🌱 I’m currently completed my engineering(computer science)
-- 💞️ I’m looking to collaborate on full stack web development
+- 💞️ 
 - 📫 How to reach me please dm me
 
 <!---
